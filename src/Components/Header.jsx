@@ -10,14 +10,7 @@ const Header = () => {
             <h1>Order Your  Favorite Food</h1>
             <p>Best Food</p>
             <button>View Menu</button>
-           <div
-      className="header"
-      style={{ backgroundImage: `url(${headerImg})` }}
-    >
-      {/* content */}
-    </div>
-            
-        </div>
+     </div>
       
     </div>
   )
